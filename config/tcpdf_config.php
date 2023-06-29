@@ -104,17 +104,17 @@ define ('PDF_CREATOR', 'TCPDF');
 /**
  * Document author.
  */
-define ('PDF_AUTHOR', 'SANJAYKIDUKAN');
+define ('PDF_AUTHOR', 'COPYKITAABWALA');
 
 /**
  * Header title.
  */
-define ('PDF_HEADER_TITLE', 'SANJAYKIDUKAN');
+define ('PDF_HEADER_TITLE', 'COPYKITAABWALA');
 
 /**
  * Header description string.
  */
-define ('PDF_HEADER_STRING', "www.sanjaykidukan.com");
+define ('PDF_HEADER_STRING', "www.copykitaabwala.com");
 
 /**
  * Document unit of measure [pt=point, mm=millimeter, cm=centimeter, in=inch].
